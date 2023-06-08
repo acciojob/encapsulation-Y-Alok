@@ -15,5 +15,6 @@ public class Main {
         obj.setName("ALOK");
         System.out.println(obj.getName());
     }
-  
+
+
 }
